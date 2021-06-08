@@ -30,7 +30,7 @@ sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 #git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
 #git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 #git clone https://github.com/kenzok8/small.git package/small
-git clone https://github.com/lisaac/luci-app-dockerman.git package/lean/luci-app-dockerman
+#git clone https://github.com/lisaac/luci-app-dockerman.git package/lean/luci-app-dockerman
 
 
 #Add Utilities 
